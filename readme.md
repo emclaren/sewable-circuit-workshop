@@ -45,6 +45,18 @@ In this repo you will find 3 example files
 3) Webthing blink sketch
 4) You can find a WebThing example in the MicroBlocks example files
 
+
+## Blink Blue Led
+
+![Blink Led](./images/blink-led.png)
+
+## Blink Neopixels
+
+![Blink Neopixles](./images/blink-neopixels.png)
+
+## Cycle Neopixels
+
+![Blink Led](./images/neopixel-cycle-colors.png)
 ## Slides
 
 The slide deck can be found in his repo
