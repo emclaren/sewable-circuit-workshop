@@ -1,0 +1,12 @@
+module main
+
+script 192 54 {
+whenStarted
+forever {
+  setUserLED true
+  waitMillis 500
+  setUserLED false
+  waitMillis 500
+}
+}
+
