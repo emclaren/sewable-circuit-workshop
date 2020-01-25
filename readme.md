@@ -52,11 +52,12 @@ In this repo you will find 3 example files
 
 ## Blink Neopixels
 
-![Blink Neopixles](./images/blink-neopixels.png)
+![Blink Neopixles](./images/blink-neopixel.png)
 
 ## Cycle Neopixels
 
 ![Blink Led](./images/neopixel-cycle-colors.png)
+
 ## Slides
 
 The slide deck can be found in his repo
